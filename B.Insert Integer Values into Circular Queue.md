@@ -86,6 +86,7 @@ print(cq3.display())
 Queue is full
 [11, 12]
 ```
+<img width="791" height="470" alt="image" src="https://github.com/user-attachments/assets/27e0de4f-b709-4b4d-a4ca-d261133a42e5" />
 
 **RESULT:**  
 The program successfully implements a circular queue with insertion functionality. For queue size 3, all three elements are inserted and displayed. For queue size 5, only three elements are inserted, showing zeros for remaining positions. For queue size 2, when attempting to insert a third element, "Queue is full" is displayed, and the queue shows only the first two inserted elements.
