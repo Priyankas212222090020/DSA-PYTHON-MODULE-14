@@ -75,6 +75,7 @@ c++
 ['java', 'python', 'c++']
 ['python', 'c++']
 ```
+<img width="1375" height="447" alt="image" src="https://github.com/user-attachments/assets/66d690ef-716e-40e1-8292-bf638e7b04e4" />
 
 **RESULT:**  
 The program successfully implements a circular queue and deletes a string element from the front. For input size 3 with elements "java", "python", "c++", the queue before deletion shows all three elements, and after deletion shows the remaining two elements "python" and "c++".
